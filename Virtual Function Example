@@ -1,0 +1,54 @@
+// virtual function program example
+#include <iostream>
+
+using namespace std;
+
+class A{
+    
+    public:
+    virtual void f1()
+     {
+         cout<<"class A\n";
+     }
+};
+class B:public A{
+  
+  public:
+  void f1()
+  {
+      cout<<"class B\n";
+  }
+  void f2()
+  {
+      cout<<"hiiiii\n";
+  }
+};
+
+int main()
+{
+    
+    A o1,*p;
+    o1.f1();//EB A
+    p=&o1;
+    p->f1();//EB A
+    
+    B b1,*q;
+    b1.f1();//EB B
+    q=&b1;//EB B
+    q->f1();
+    
+    p=&b1;
+    p->f1();//LB B
+    
+    return 0;
+}
+
+output:
+
+Class A
+Class A
+Class B
+Class B
+Class B
+
+
