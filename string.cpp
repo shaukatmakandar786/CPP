@@ -6,13 +6,13 @@ int main()
 {
     
     char s1[30]="abcdmadampqr";
-    char s2[30]="madam";
+    char s2[30]="mada";
     int count;
     int m=strlen(s1);
     int n=strlen(s2);
-    
+    int i;
     //firstloop:
-    for(int i=0;i<=m-n;i++)
+    for( i=0;i<=m-n;i++)
     {
         count=0;
         for(int j=0;j<n;j++)
@@ -21,15 +21,16 @@ int main()
             {
                 count++;
             }
+            else
+            {
+                break;
+            }
             if(count==n)
             {
                 cout<<"string is present\n";
                 goto last;
             }
-            else{
-                continue;
-            }
-
+            
         }
     }
     last:
