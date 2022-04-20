@@ -44,4 +44,4 @@ int main()
    
     return 0;
 }
-// destroy location pointed by p
+// destroy location pointed by p.
