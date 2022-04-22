@@ -30,6 +30,6 @@ void reverse(char a[],int f,int l)
     }
 }
 
-//before reverse hello
-//after reverse hello
+// before reverse hello
+// after reverse olleh
 
