@@ -25,7 +25,7 @@ void findPair(int a[],int target,int n)
         {
             cout<<a[f]<<" "<<a[l]<<endl;
             flag=1;
-            f++;l++;
+            f++;l--;
         }
         else if(a[f]+a[l]< target)
         {
