@@ -1,0 +1,111 @@
+My name is Shaukat Makandar.
+I am 24.
+I am not married.
+I leave in pune.
+I have completed my bachelors degree in computer applications from abeda inamdar collage in 2017.
+I also completed my masters degree in computers applications from singh gad collage in 2020.
+When i was doing My MCA i worked as tutor in Real academy.
+I was Teaching there C,CPP Data Structure,java
+Due to covid situation my father was job less at that time n my classes income was also stoped.
+
+so,to survive in lockdown i join concentrix company ,so i also have 1 year of experiance in concentrix,but this was non It job for me.
+after that to make career in IT sector i resigned that job....
+
+now last 6th month im working as back-end java developer in Webassic It solutions.
+I wokred here with spring boot Framework,in this company my major role to make apis as per the project requirements..
+
+6th month before i have rejected in CC tech 2 times because of my communication and lack of confidance,But now i am quit good in communication and still i am working on it.
+
+at this situaion i have improved my data Structure and CPP concepts.
+
+in data structure i have implemented all major concepts like 
+
+	1selection sort
+	2insertion sort
+	2bubble sort
+	4quick sort
+
+	1 static implementaion of stack
+	2 dynamic implementation of stack
+
+	1 static implementation of queue
+	2 static implementation of circular queue
+	3 dynamic implementaion of queue
+
+	all operations of single and doubly linked list like
+
+		1 create lits
+		2 add first node
+		3 add last node
+		4 add at possition
+		5 delete first node
+		6 delete last node
+		7 delete by possition
+		8 display linked list
+		9 reverse linked list
+		10 sort linked list
+		11 count node
+
+i also implmented binary search tree with all 3 traversing technique like 
+	
+	in-order 
+	pre-order 
+	post-order
+
+and i also have good knowledge of cpp
+
+whats virtual function
+why to create virtual function
+internal of virtual function
+
+what is pure virtual function
+what is abstract class
+
+what is virtual base class
+what is diamond problem
+
+what is virtual destructor
+
+what is polymorphism
+
+what is overriding and in which siuation we have to do overriding
+
+what is overloading
+
+what is operator overloading
+
+
+
+different tyes of pointer like
+
+	wild pointers
+	dangling pointer
+	void pointer
+	null pointer
+	
+what is referance variable in cpp	
+	
+what is deep copy and waht is shallow copy
+
+what is copy constructor what is dynamic constructor	
+
+5 key principles of oops
+	
+	Encapsulation
+	Data hiding
+	Abstraction 
+	polymorphism
+	Inheritance
+	
+what is inline function
+
+what is friend fucntion
+in which situation friend in usefull
+
+static keywords in cpp
+
+i also have the basic knowledge of STL	
+	
+
+
+
