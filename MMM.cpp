@@ -1,5 +1,3 @@
-//mean median mod
-
 #include<iostream>
 using namespace std;
 
@@ -70,12 +68,12 @@ void median(int *a,int n)
 void mode(int *a,int n)
 {
     int current_count,max_count=0,k=0;
-    int mod[n];
+    int mod[10];
 
-    for(int i=0;i<n;i++)
+    for(int i=0;i<=n-2;i++)
     {
         current_count=0;
-        for(int j=1+i;j<n;j++)
+        for(int j=1+i;j<=n-1;j++)
         {
             if(a[i]==a[j])
             {
@@ -108,5 +106,3 @@ void mode(int *a,int n)
         }
     }
 }
-
-
