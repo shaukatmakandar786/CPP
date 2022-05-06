@@ -14,9 +14,10 @@ after that to make career in IT sector i resigned that job....
 from last 6th month im working as back-end java developer in Webassic It solutions.
 I worked there on spring boot Framework,in this company my major role is to make apis as per the project requirements..
 
-6th month before i had been rejected in CC tech 2 times because of my communication and lack of confidance,But now i am quit good in communication and   still i am working on it.
+6th month before i had been rejected in CC tech twice because of my communication and lack of confidance,But now i am quit good in communication and still i am working on it.  
 
-at this situaion i have improved my data Structure and CPP concepts.
+when i had rejected by this company twice then i took this as a possitive approach and i have achieved good knowledge of data strucrure
+as well as cpp
 
 in data structure i have implemented all major concepts like 
 
